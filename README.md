@@ -1,10 +1,36 @@
-- [1. Applied Machine Learning for Formal Methods]
-	- [1.1 Program Verification]
+- [1. Applied Machine Learning for Program Verification]
+	- [1.1 Model Checking]
+    - LTL
+    - CTL
+    - Bounded Model Checking
+    - Unbounded Model Checking
+
 	- [1.2 Loop Invariant Synthesis]
+    - Counterexample-Guided Synthesis
+    - Syntax-Guided Synthesis
+    - Template-Guide Synthesis
+    - Property Reachability Synthesis
+    - Deep Learning-based Synthesis
+    - Other Synthesis Methods
+  
 	- [1.3 Hoare Logic and Separation Logic]
+  	- Hoare Logic
+  	- Separation Logic
+  
 	- [1.4 SAT, SMT and CHC Solver]
+  	- SAT
+  	- SMT
+  	- CHC Solver
+  
 	- [1.5 Automated Theorem Proving]
-	- [1.6 Automated Verification, Synthesis and Repair] 
+  	- HOL
+  	- FOL
+  	- Coq
+  	- Isabelle
+  	- Why3
+  	- Lean
+  
+	- [1.6 Program Synthesis and Repair] 
 	
 - [2. Unsorted Online Sources]
 
